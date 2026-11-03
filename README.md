@@ -58,3 +58,26 @@ Project Structure
 data/ ├── KaggleV2-May-2016.csv ├── processed/ │ └── no_show_clean.csv └── raw/
 
 notebooks/ └── 01_data_loading.ipynb
+Healthcare No-Show Analysis
+Project Overview
+This project analyzes patient appointment attendance using the Medical Appointment No Shows dataset.
+
+Objectives
+Identify factors associated with missed appointments
+Explore demographic and medical characteristics
+Assess the impact of SMS reminders
+Investigate waiting times and attendance rates
+Tools Used
+Python
+Pandas
+Jupyter Notebook
+Matplotlib
+VS Code
+Key Findings
+No-show rate: 20.19%
+Younger patients were more likely to miss appointments
+Scholarship recipients had higher no-show rates
+Longer waiting times were associated with higher no-show rates
+Patients with chronic conditions attended slightly more often
+Dataset
+Medical Appointment No Shows Dataset (Kaggle)
